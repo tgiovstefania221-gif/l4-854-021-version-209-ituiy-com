@@ -1,0 +1,10 @@
+{
+  "parsed_movie_count": 2000,
+  "detail_page_count": 2000,
+  "category_page_count": 12,
+  "category_coverage_count": 2000,
+  "hls_source_count": 20,
+  "sitemap_url_count": 2016,
+  "logo": "推荐电影大全",
+  "image_assignment": "N -> ((N - 1) % 150) + 1"
+}
